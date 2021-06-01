@@ -1,16 +1,19 @@
 # xylophone_flutter
 
-A new Flutter project.
+Flutter Xylophone - beginner app. We have used Audio_Cache to create a player instance. 
+
+### Youtube Tutorial: https://www.youtube.com/watch?v=WSJPhwVGd58
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Essentials
+> Add the package into the pubspec.yaml file.
+- [AudioPlayer](https://pub.dev/packages/audioplayers)
+> You have to import Audio_Cache as we are playing the audio files that are local. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Visuals
+
+![](assets/xylophone.png)
