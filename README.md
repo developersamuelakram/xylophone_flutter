@@ -16,4 +16,4 @@ This project is a starting point for a Flutter application.
 
 ## Visuals
 
-![](assets/xylophone.png)
+![](assets/xylophone.jpg)
